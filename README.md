@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working as a Junior Web Developer
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gary-berkman">Linkedin</a>
+- 💻 Here is my <a href="https://gary235.github.io/Portfolio">Personal Website</a>
 
 <!---
 Gary235/Gary235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
